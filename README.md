@@ -96,9 +96,7 @@ End-to-end IoT solution with secure cloud integration, reducing **bandwidth cons
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithgaloth&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgaloth&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohithgaloth&theme=radical&hide_border=true)
 
